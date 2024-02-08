@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs";
 import Contentwrapper from "../Contentwrapper/Contentwrapper";
-import Img from "../lazyLoadImage/Img";
+import Img from "../lazyloadImage/Img";
 import PosterFallback from "../../assets/no-poster.png";
 
 import './Carousel.scss'
